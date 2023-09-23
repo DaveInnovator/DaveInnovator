@@ -5,16 +5,15 @@
 
 
 
-- 🌱 I’m currently learning **javascript, Bootstrap, html and css**
+- 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidolarinde](https://github.com/davidolarinde)
 
 - 💬 Ask me about **Html, Css and javascript**
 
 - 📫 How to reach me **olarindedavid49@gmail.com**
 
 - ⚡ Fun fact **I think am smart**
-- You can view my portfolio through "https://david-olarinde.vercel.app/"
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
